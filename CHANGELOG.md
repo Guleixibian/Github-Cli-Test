@@ -1,3 +1,3 @@
 # CHANGELOG
-## Version #1 - Initialize Repository
+## Version 1.0.1 - 初始化仓库
 
